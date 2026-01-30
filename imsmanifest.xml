@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6eBRPl2Lpu7" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Módulo 1. Introducción a Java</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Módulo_1._Introducción_a_Java_ORG">
+    <organization identifier="Módulo_1._Introducción_a_Java_ORG">
+      <title>Módulo 1. Introducción a Java</title>
+      <item identifier="Módulo_1._Introducción_a_Java_SCO" isvisible="true" identifierref="__6eBRPl2Lpu7_RES">
+        <title>Módulo 1. Introducción a Java</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6eBRPl2Lpu7_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5qGHJhCfcNY.png" />
+      <file href="story_content/video_5ajI0PW4KJc_22_48_888x500.mp4" />
+      <file href="mobile/poster_6CnJjYox7Zt_video_5ajI0PW4KJc_22_48_888x500.jpg" />
+      <file href="mobile/5eG6uDjz98d.png" />
+      <file href="mobile/5k4yKDRlzwW.png" />
+      <file href="mobile/5cHBx6n9Igq.png" />
+      <file href="mobile/6BtcPoqi4p1.png" />
+      <file href="story_content/649q7dkq3ex_44100_48_0.mp3" />
+      <file href="mobile/5Yzn4RY2BAE.png" />
+      <file href="mobile/6q4pKsWbRhc_M_1286_1286.png" />
+      <file href="story_content/5kqj5OMXpbw_44100_48_0.mp3" />
+      <file href="story_content/5hap8T03EQZ_44100_48_0.mp3" />
+      <file href="story_content/5W7L6WSZAIc_44100_48_0.mp3" />
+      <file href="mobile/6nilsw3srQL.png" />
+      <file href="mobile/6UlzuoZRy0X.png" />
+      <file href="mobile/5qXTZHTBQLT_P_0_0_1281_724.png" />
+      <file href="mobile/5zcFHGT9LPM.png" />
+      <file href="mobile/6Cy1Ud2fi3X.png" />
+      <file href="mobile/6Ks91kV6wPF.png" />
+      <file href="mobile/6l7u9M4AFlf.gif" />
+      <file href="story_content/6pTIApT9OqU_44100_48_0.mp3" />
+      <file href="mobile/6F7MP8KWo0f.png" />
+      <file href="mobile/6CobLRQnkgL.png" />
+      <file href="mobile/6nEblIL0lTv.png" />
+      <file href="mobile/5uQ2QLpxDhp.png" />
+      <file href="story_content/5WhNP6JuADG_44100_48_0.mp3" />
+      <file href="mobile/5hV2T3mDtsQ.png" />
+      <file href="story_content/6B65pn8mKSD_44100_48_0.mp3" />
+      <file href="mobile/68QR1rpkmvX.png" />
+      <file href="mobile/6jRR1VqQq3x.gif" />
+      <file href="mobile/6263bICqSbk.gif" />
+      <file href="story_content/5qafegi4EDx_44100_48_0.mp3" />
+      <file href="mobile/5zSAGnqta35.png" />
+      <file href="mobile/5zSAGnqta35_RG.png" />
+      <file href="mobile/5Yk9diFTAvm.gif" />
+      <file href="mobile/5lxojagTyMu.gif" />
+      <file href="story_content/6IStAtgfzWs_44100_48_0.mp3" />
+      <file href="mobile/6cgCVBwuTvv_P_520_24_309_708.png" />
+      <file href="mobile/5XbfyAlJREA.gif" />
+      <file href="mobile/6ianTkyEbTF.png" />
+      <file href="story_content/6n9PLM9ZCru_44100_48_0.mp3" />
+      <file href="story_content/6Vro5fAHEFs_44100_48_0.mp3" />
+      <file href="mobile/6EnnbO692IK.png" />
+      <file href="mobile/67beiHVkcG3.gif" />
+      <file href="mobile/6SAWzpdAr5n.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Lectura Introducción a Java y ejemplos de código.pdf" />
+      <file href="mobile/txt__default_6H5nRbQqoSm.png" />
+      <file href="mobile/txt__default_5l7VNMr3dTT.png" />
+      <file href="mobile/txt__default_5pE5prusVGc.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5eMb0eO6KH7.js" />
+      <file href="html5/data/js/5ifhYfkHUdY.js" />
+      <file href="html5/data/js/5pigWyR5Q9k.js" />
+      <file href="html5/data/js/5riqrVE4BH9.js" />
+      <file href="html5/data/js/68gkNfa1AmK.js" />
+      <file href="html5/data/js/6ByXDREZ3pf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
